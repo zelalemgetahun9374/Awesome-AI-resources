@@ -5,6 +5,8 @@ Different kind of resources for learning and practicing artificial intelligence.
 
 ## Machine Learning and Deep Learning
 
+## Miscellaneous
+
 ## Competitions
 
 ## Practice and Challenges
@@ -12,3 +14,5 @@ Different kind of resources for learning and practicing artificial intelligence.
 ## AI communtiy
 
 ## Scholarships
+
+
