@@ -11,6 +11,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Probability and statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 
 ## Machine Learning and Deep Learning
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [Kaggle courses](https://www.kaggle.com/learn/overview)
 * [Korbit AI - Data Science Learning using AI tutor](https://www.korbit.ai/for-individuals)
@@ -20,24 +21,31 @@ Different kinds of resources for learning and practicing artificial intelligence
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
 
-## Articles and Blogs
-* [Kavita’s Articles about text mining, text classification, NLP, neural embeddings and related issues](https://kavita-ganesan.com/kavitas-tutorials/#.X-CkSyP47IW)
-
-## Miscellaneous
-* [Google AI](https://ai.google/)
-
-## Youtube Channels
+## Projects and Challenges
+* [HackeRank](https://www.hackerrank.com/)
+* [JetBrains Academy](https://hyperskill.org/onboarding)
+* [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
 ## Competitions
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
 
-## Projects and Challenges
-* [HackeRank](https://www.hackerrank.com/)
-* [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
+## Internship, Fellowship and Jobs
+* [Fellowship.ai](https://www.fellowship.ai/)
+* [Forage Virtual Internships](https://www.theforage.com)
+
+## Miscellaneous
+* [Google AI](https://ai.google/)
+* [Library of computer science, maths, statistics, probability, artificial intelligence, ...](https://onedrive.live.com/?authkey=%21AC8oQ_EKSvCcCD4&id=82A2F2C10CA0D8F8%2130002&cid=82A2F2C10CA0D8F8)
+* [Free google cloud courses](https://go.qwiklabs.com/qwiklabs-free)
+
+## Articles and Blogs
+* [Kavita’s Articles about text mining, text classification, NLP, neural embeddings and related issues](https://kavita-ganesan.com/kavitas-tutorials/#.X-CkSyP47IW)
 
 ## AI communtiy
 * [Kaggle Community](https://www.kaggle.com/discussion)
 
-## Internship, Fellowship and Jobs
-* [Fellowship.ai](https://www.fellowship.ai/)
+## Youtube Channels
+
+
+
 
