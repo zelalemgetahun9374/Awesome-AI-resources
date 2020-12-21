@@ -12,15 +12,17 @@ Different kind of resources for learning and practicing artificial intelligence.
 ## Machine Learning and Deep Learning
 
 ## Miscellaneous
+* [Google AI](https://ai.google/)
 
 ## Youtube Channels
 
 ## Competitions
 
 ## Practice and Challenges
+* [HackeRank](https://www.hackerrank.com/)
 
 ## AI communtiy
 
-## Scholarships
-
+## Internship, Fellowship and Jobs
+* [Fellowship.ai](https://www.fellowship.ai/)
 
