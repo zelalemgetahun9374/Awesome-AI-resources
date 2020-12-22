@@ -6,6 +6,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [MathOverflow](https://mathoverflow.net/)
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Mathsisfun | Data, Probability and Statistics](https://www.mathsisfun.com/data/)
 * [Electronic Textbooks](https://faculty.atu.edu/mfinan/nnotes.html)
 * [Wikibooks: Mahematics online bookshelf](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
@@ -34,6 +35,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [JetBrains Academy](https://hyperskill.org/onboarding)
 * [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
+* [6 Exciting Open Source Data Science Projects you Should Start Working on Today](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/)
 
 ## Competitions
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
