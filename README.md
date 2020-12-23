@@ -57,6 +57,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Girhub Repositories
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
+* [Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
 ## Articles and Blogs
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
