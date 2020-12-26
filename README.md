@@ -41,6 +41,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ## Internship, Fellowship and Jobs
+* [Internshala](https://internshala.com/)
 * [Fellowship.ai](https://www.fellowship.ai/)
 * [Forage Virtual Internships](https://www.theforage.com)
 * [Practicum Digital Virtual Internships](https://sites.google.com/view/practicum-digital/welcome)
@@ -55,7 +56,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Python Programming Tutorials by Tech With Tim](https://www.techwithtim.net/)
 * [Free google cloud courses](https://go.qwiklabs.com/qwiklabs-free)
 
-## Girhub Repositories
+## Github Repositories
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
 * [Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
