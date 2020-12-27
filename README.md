@@ -18,6 +18,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [Dive Into Deep Learning: D2L by Amazon scientists](https://d2l.ai/index.html)
 * [Kaggle courses](https://www.kaggle.com/learn/overview)
+* [TensorFlow Tutorials and Guides](https://www.tensorflow.org/overview)
 * [Korbit AI - Data Science Learning using AI tutor](https://www.korbit.ai/for-individuals)
 * [CoderzColumn | Python, Data Science, Ml ,AI Tutorials](https://coderzcolumn.com/)
 * [Learn Data Science Online | DPhi](https://dphi.tech/learn/)
@@ -26,6 +27,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+* [MIT Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
