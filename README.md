@@ -28,6 +28,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 * [MIT Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+* [Machine Learning by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
 
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
@@ -57,6 +58,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Python, Data Analysis and Software Engineering courses](https://milliams.com/courses/#courses)
 * [Python Programming Tutorials by Tech With Tim](https://www.techwithtim.net/)
 * [Free google cloud courses](https://go.qwiklabs.com/qwiklabs-free)
+* [Ace your data science interview](https://datascienceprep.com/?utm_source=share&utm_medium=link&utm_campaign=friend_referral)
 
 ## Github Repositories
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
