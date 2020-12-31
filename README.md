@@ -15,6 +15,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Courses and Learning Sites
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
+* [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [Dive Into Deep Learning: D2L by Amazon scientists](https://d2l.ai/index.html)
 * [Kaggle courses](https://www.kaggle.com/learn/overview)
@@ -53,6 +54,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Work At A Startup Internships](https://www.workatastartup.com/internships)
 
 ## Miscellaneous
+* [Open Data Science](https://ods.ai/)
 * [Google AI](https://ai.google/)
 * [fast.ai](https://www.fast.ai/)
 * [Library of computer science, maths, statistics, probability, artificial intelligence, ...](https://onedrive.live.com/?authkey=%21AC8oQ_EKSvCcCD4&id=82A2F2C10CA0D8F8%2130002&cid=82A2F2C10CA0D8F8)
