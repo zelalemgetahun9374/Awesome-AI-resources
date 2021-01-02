@@ -57,6 +57,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Open Data Science](https://ods.ai/)
 * [Google AI](https://ai.google/)
 * [fast.ai](https://www.fast.ai/)
+* [65+ Free Data Science Resources for Beginners](https://elitedatascience.com/data-science-resources#foundational-skills)
 * [Library of computer science, maths, statistics, probability, artificial intelligence, ...](https://onedrive.live.com/?authkey=%21AC8oQ_EKSvCcCD4&id=82A2F2C10CA0D8F8%2130002&cid=82A2F2C10CA0D8F8)
 * [Python, Data Analysis and Software Engineering courses](https://milliams.com/courses/#courses)
 * [Python Programming Tutorials by Tech With Tim](https://www.techwithtim.net/)
