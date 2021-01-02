@@ -68,6 +68,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
 ## Articles and Blogs
+* [Bird's Eye View of The Machine Learning Workflow](https://elitedatascience.com/birds-eye-view)
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
 * [The Artificial Intelligence Wiki](https://wiki.pathmind.com/)
 * [TensorFlow Beginners Tutorial](https://datascience-enthusiast.com/DL/Tensorflow_Tutorial.html#TensorFlow-Tutorial)
