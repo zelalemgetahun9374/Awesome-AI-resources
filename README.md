@@ -33,6 +33,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
+* [IPython Interactive Computing and Visualization Cookbook Jupiter Notebooks](https://github.com/ipython-books/cookbook-2nd-code)
 
 ## Projects and Challenges
 * [HackeRank](https://www.hackerrank.com/)
