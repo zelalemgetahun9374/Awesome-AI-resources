@@ -38,6 +38,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [HackeRank](https://www.hackerrank.com/)
 * [JetBrains Academy](https://hyperskill.org/onboarding)
 * [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
+* [500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
 * [6 Exciting Open Source Data Science Projects you Should Start Working on Today](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/)
 * [8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
