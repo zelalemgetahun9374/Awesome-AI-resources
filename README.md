@@ -33,12 +33,14 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
+* [Awesome Cheatsheets for Data Science](https://www.kaggle.com/joydeb28/awesome-data-science-cheatsheet#Big-Data)
 * [IPython Interactive Computing and Visualization Cookbook Jupiter Notebooks](https://github.com/ipython-books/cookbook-2nd-code)
 
 ## Projects and Challenges
 * [HackeRank](https://www.hackerrank.com/)
 * [JetBrains Academy](https://hyperskill.org/onboarding)
 * [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
+* [180 Data Science and Machine Learning Projects with Python](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
 * [500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
 * [6 Exciting Open Source Data Science Projects you Should Start Working on Today](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/)
@@ -59,6 +61,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Open Data Science](https://ods.ai/)
 * [Google AI](https://ai.google/)
 * [fast.ai](https://www.fast.ai/)
+* [KDnuggets - Machine Learning, Data Science, Big Data, Analytics](https://www.kdnuggets.com/)
 * [65+ Free Data Science Resources for Beginners](https://elitedatascience.com/data-science-resources#foundational-skills)
 * [Library of computer science, maths, statistics, probability, artificial intelligence, ...](https://onedrive.live.com/?authkey=%21AC8oQ_EKSvCcCD4&id=82A2F2C10CA0D8F8%2130002&cid=82A2F2C10CA0D8F8)
 * [Python, Data Analysis and Software Engineering courses](https://milliams.com/courses/#courses)
@@ -74,18 +77,23 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Bird's Eye View of The Machine Learning Workflow - Elite Data Science](https://elitedatascience.com/birds-eye-view)
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
 * [The Artificial Intelligence Wiki](https://wiki.pathmind.com/)
+* [How to Build a Stunning Interactive Dashboard within 10 Minutes using Google Data Studio](https://towardsdatascience.com/how-to-build-a-great-dashboard-ee0518c3d3f7)
 * [TensorFlow Beginners Tutorial](https://datascience-enthusiast.com/DL/Tensorflow_Tutorial.html#TensorFlow-Tutorial)
 * [Kavita’s Articles about text mining, text classification, NLP, neural embeddings and related issues](https://kavita-ganesan.com/kavitas-tutorials/#.X-CkSyP47IW)
 
-## Free Tools
-* [ableau for Students one year free](https://www.tableau.com/academic/students)
+## AI Applications
+* [Avatarify AI Photorealistic Avatars in Realtime](https://avatarify.ai/)
+
+## Free AI Data Science Tools
+* [Google Data Studio - a data visualization tool to generate interactive dashboard](https://datastudio.google.com)
+* [Tableau for Students one year free](https://www.tableau.com/academic/students)
 
 ## AI communtiy
 * [Kaggle Community](https://www.kaggle.com/discussion)
 
 ## Youtube Channels
 * [My CS](https://www.youtube.com/c/MyCS1/videos)
-* [3Blue1Brown - Math, Probability, Neural networks](https://www.youtube.com/c/3blue1brown/playlists) 
+* [3Blue1Brown - Math, Probability, Neural networks explained easily](https://www.youtube.com/c/3blue1brown/playlists) 
 * [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists) 
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/playlists)
 
