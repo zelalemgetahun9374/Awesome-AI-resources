@@ -86,6 +86,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 ## Youtube Channels
 * [My CS](https://www.youtube.com/c/MyCS1/videos)
 * [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists) 
+* [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/playlists)
 
 
 
