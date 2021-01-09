@@ -95,6 +95,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [My CS](https://www.youtube.com/c/MyCS1/videos)
 * [3Blue1Brown - Math, Probability, Neural networks explained easily](https://www.youtube.com/c/3blue1brown/playlists) 
 * [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists) 
+* [codebasics - Data analysis and machine learning projects (End to End)](https://www.youtube.com/c/codebasics/playlists)
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/playlists)
 
 
