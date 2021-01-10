@@ -45,6 +45,8 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
 * [6 Exciting Open Source Data Science Projects you Should Start Working on Today](https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/)
 * [8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+* [Top 7 Data science projects to put on your resume-2020](https://technologynous.com/top-7-data-science-projects-to-put-on-your-resume-2020/?fbclid=IwAR3v4RVKiNsswXcvDo4K31KS8VLaXJAbemMvre8BM3cxChJc_QWz_cUcPPk)
+* [Top 47 Machine Learning Projects for 2021 [Source Code Included]](https://data-flair.training/blogs/machine-learning-project-ideas/)
 
 ## Competitions
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
