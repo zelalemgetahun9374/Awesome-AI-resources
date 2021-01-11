@@ -6,6 +6,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [MathOverflow](https://mathoverflow.net/)
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#firstPage)
 * [Mathsisfun | Data, Probability and Statistics](https://www.mathsisfun.com/data/)
 * [Electronic Textbooks](https://faculty.atu.edu/mfinan/nnotes.html)
 * [Wikibooks: Mahematics online bookshelf](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
