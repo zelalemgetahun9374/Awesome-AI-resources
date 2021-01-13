@@ -35,6 +35,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
 * [Awesome Cheatsheets for Data Science](https://www.kaggle.com/joydeb28/awesome-data-science-cheatsheet#Big-Data)
+* [The Super Duper NLP Repo -  over 300 NLP Notebooks](https://notebooks.quantumstat.com/)
 * [IPython Interactive Computing and Visualization Cookbook Jupiter Notebooks](https://github.com/ipython-books/cookbook-2nd-code)
 
 ## Projects and Challenges
@@ -86,6 +87,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Visual Explanation of Backpropagation Algorithm](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll)
 * [Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573#a642)
 * [How to Build a Stunning Interactive Dashboard within 10 Minutes using Google Data Studio](https://towardsdatascience.com/how-to-build-a-great-dashboard-ee0518c3d3f7)
+* [10 Python Data Visualization Libraries for Any Field | Mode](https://mode.com/blog/python-data-visualization-libraries/#Bokeh)
 * [TensorFlow Beginners Tutorial](https://datascience-enthusiast.com/DL/Tensorflow_Tutorial.html#TensorFlow-Tutorial)
 * [Kavita’s Articles about text mining, text classification, NLP, neural embeddings and related issues](https://kavita-ganesan.com/kavitas-tutorials/#.X-CkSyP47IW)
 
