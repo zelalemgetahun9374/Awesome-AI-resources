@@ -65,6 +65,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Open Data Science](https://ods.ai/)
 * [Google AI](https://ai.google/)
 * [fast.ai](https://www.fast.ai/)
+* [Workera - Personalized Data-AI Skills Transformation](https://workera.ai/)
 * [KDnuggets - Machine Learning, Data Science, Big Data, Analytics](https://www.kdnuggets.com/)
 * [The Ultimate guide to AI, Data Science & Machine Learning, Articles, Cheatsheets and Tutorials ALL in one place](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/)
 * [Data Science and Machine Learning Cheat Sheets and Projects 2021](https://www.theinsaneapp.com/)
