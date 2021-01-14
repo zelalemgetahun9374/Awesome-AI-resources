@@ -104,7 +104,11 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Youtube Channels
 * [My CS](https://www.youtube.com/c/MyCS1/videos)
-* [3Blue1Brown - Math, Probability, Neural networks explained easily](https://www.youtube.com/c/3blue1brown/playlists) 
+* [3Blue1Brown - Math, Probability, Neural networks explained easily](https://www.youtube.com/c/3blue1brown/playlists)
+* [Data Professor](https://www.youtube.com/c/DataProfessor/playlists)
+* [Krish Naik](https://www.youtube.com/user/krishnaik06/playlists)
+* [Ken Jee](https://www.youtube.com/c/KenJee1/playlists)
+* [statslectures](https://www.youtube.com/user/statslectures/playlists)
 * [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists) 
 * [codebasics - Data analysis and machine learning projects (End to End)](https://www.youtube.com/c/codebasics/playlists)
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/playlists)
