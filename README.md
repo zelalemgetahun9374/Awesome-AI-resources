@@ -80,6 +80,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Github Repositories
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
+* [The incredible PyTorch - Pytorch tutorials, projects, libraries, videos, papers, books](https://github.com/ritchieng/the-incredible-pytorch)
 * [Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
 ## Articles and Blogs
