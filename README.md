@@ -88,6 +88,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
 * [The Artificial Intelligence Wiki](https://wiki.pathmind.com/)
 * [DATA SCIENCE PIPELINE BASICS](https://medium.com/@shubhammadke96/data-science-pipeline-basics-da4eff6bdd47)
+* [Easy step-by-step Tensorflow Tutorials](https://www.easy-tensorflow.com/)
 * [Visual Explanation of Backpropagation Algorithm](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll)
 * [Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573#a642)
 * [How to Build a Stunning Interactive Dashboard within 10 Minutes using Google Data Studio](https://towardsdatascience.com/how-to-build-a-great-dashboard-ee0518c3d3f7)
