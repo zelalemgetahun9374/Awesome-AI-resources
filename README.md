@@ -41,6 +41,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 ## Projects and Challenges
 * [HackeRank](https://www.hackerrank.com/)
 * [JetBrains Academy](https://hyperskill.org/onboarding)
+* [DeZyre - Data Science and Machine Learning code recipes](https://www.dezyre.com/)
 * [EliteDataScience's Machine Learning Masterclass course projects from 2017 class](https://github.com/jfrank94/Machine-Learning-Masterclass)
 * [EliteDataScience's Machine Learning Masterclass course projects search n gthub](https://github.com/search?o=desc&q=EliteDataScience&s=updated&type=Repositories)
 * [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
