@@ -72,6 +72,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [KDnuggets - Machine Learning, Data Science, Big Data, Analytics](https://www.kdnuggets.com/)
 * [The Ultimate guide to AI, Data Science & Machine Learning, Articles, Cheatsheets and Tutorials ALL in one place](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/)
 * [Data Science and Machine Learning Cheat Sheets and Projects 2021](https://www.theinsaneapp.com/)
+* [Cheatography - Over 4,000 Free Cheat Sheets, Revision Aids and Quick References!](https://cheatography.com/)
 * [65+ Free Data Science Resources for Beginners](https://elitedatascience.com/data-science-resources#foundational-skills)
 * [Library of computer science, maths, statistics, probability, artificial intelligence, ...](https://onedrive.live.com/?authkey=%21AC8oQ_EKSvCcCD4&id=82A2F2C10CA0D8F8%2130002&cid=82A2F2C10CA0D8F8)
 * [Python, Data Analysis and Software Engineering courses](https://milliams.com/courses/#courses)
