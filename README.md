@@ -42,6 +42,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [HackeRank](https://www.hackerrank.com/)
 * [JetBrains Academy](https://hyperskill.org/onboarding)
 * [DeZyre - Data Science and Machine Learning code recipes](https://www.dezyre.com/)
+* [8 AI/Machine Learning Projects To Make Your Portfolio Stand Out](https://www.kdnuggets.com/2020/09/8-ml-ai-projects-stand-out.html)
 * [EliteDataScience's Machine Learning Masterclass course projects from 2017 class](https://github.com/jfrank94/Machine-Learning-Masterclass)
 * [EliteDataScience's Machine Learning Masterclass course projects search n gthub](https://github.com/search?o=desc&q=EliteDataScience&s=updated&type=Repositories)
 * [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
@@ -82,6 +83,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Github Repositories
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
+* [Free AI resources](https://github.com/mrsaeeddev/free-ai-resources)
 * [The incredible PyTorch - Pytorch tutorials, projects, libraries, videos, papers, books](https://github.com/ritchieng/the-incredible-pytorch)
 * [Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
 
@@ -90,6 +92,8 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
 * [The Artificial Intelligence Wiki](https://wiki.pathmind.com/)
 * [DATA SCIENCE PIPELINE BASICS](https://medium.com/@shubhammadke96/data-science-pipeline-basics-da4eff6bdd47)
+* [A step-by-step guide for creating an authentic data science portfolio project](https://www.kdnuggets.com/2020/10/guide-authentic-data-science-portfolio-project.html)
+* [Beginners Learning Path for Machine Learning](https://www.kdnuggets.com/2020/05/beginners-learning-path-machine-learning.html)
 * [Easy step-by-step Tensorflow Tutorials](https://www.easy-tensorflow.com/)
 * [Visual Explanation of Backpropagation Algorithm](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll)
 * [Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573#a642)
