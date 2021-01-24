@@ -19,6 +19,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [Dive Into Deep Learning: D2L by Amazon scientists](https://d2l.ai/index.html)
+* [Machine Learning Course - The Clever Programmer](https://thecleverprogrammer.com/2020/09/24/machine-learning-course/)
 * [Kaggle courses](https://www.kaggle.com/learn/overview)
 * [TensorFlow Tutorials and Guides](https://www.tensorflow.org/overview)
 * [Korbit AI - Data Science Learning using AI tutor](https://www.korbit.ai/for-individuals)
