@@ -36,6 +36,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
 * [Awesome Cheatsheets for Data Science](https://www.kaggle.com/joydeb28/awesome-data-science-cheatsheet#Big-Data)
+* [IBM OpenDS4All](https://github.com/odpi/OpenDS4All/tree/master/opends4all-resources)
 * [The Super Duper NLP Repo -  over 300 NLP Notebooks](https://notebooks.quantumstat.com/)
 * [IPython Interactive Computing and Visualization Cookbook Jupiter Notebooks](https://github.com/ipython-books/cookbook-2nd-code)
 
@@ -44,7 +45,6 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [JetBrains Academy](https://hyperskill.org/onboarding)
 * [DeZyre - Data Science and Machine Learning code recipes](https://www.dezyre.com/)
 * [8 AI/Machine Learning Projects To Make Your Portfolio Stand Out](https://www.kdnuggets.com/2020/09/8-ml-ai-projects-stand-out.html)
-* [IBM OpenDS4All](https://github.com/odpi/OpenDS4All/tree/master/opends4all-resources)
 * [EliteDataScience's Machine Learning Masterclass course projects from 2017 class](https://github.com/jfrank94/Machine-Learning-Masterclass)
 * [EliteDataScience's Machine Learning Masterclass course projects search n gthub](https://github.com/search?o=desc&q=EliteDataScience&s=updated&type=Repositories)
 * [130 projects in Machine learning (with solution and explanation)](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
