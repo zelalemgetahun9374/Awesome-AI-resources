@@ -1,4 +1,4 @@
-# Awesome-AI-resources
+# Awesome-Free-AI-resources
 Different kinds of resources for learning and practicing artificial intelligence.
 
 ## Mathematics, Statistics and Probability
@@ -15,6 +15,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Articles about Statistics](https://www.scribbr.com/category/statistics/)
 
 ## Courses and Learning Sites
+* [Jovian AI - Learn Data Science](https://jovian.ai/learn)
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 * [deeplearning.ai](https://www.deeplearning.ai/)
