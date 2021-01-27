@@ -97,6 +97,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Ace your data science interview](https://datascienceprep.com/?utm_source=share&utm_medium=link&utm_campaign=friend_referral)
 
 ## Github Repositories
+* [Learn Datascience for Free](https://github.com/therealsreehari/Learn-Datascience-for-Free)
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
 * [Free AI resources](https://github.com/mrsaeeddev/free-ai-resources)
 * [The incredible PyTorch - Pytorch tutorials, projects, libraries, videos, papers, books](https://github.com/ritchieng/the-incredible-pytorch)
