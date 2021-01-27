@@ -9,13 +9,14 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [TutorialsPoint - Statistics Tutorial](https://www.tutorialspoint.com/statistics/index.htm)
 * [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#firstPage)
 * [Mathsisfun | Data, Probability and Statistics](https://www.mathsisfun.com/data/)
+* [Statistics Course for Data Science | Statistics Course for Data Analytics | MarinStatsLectures](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
 * [Electronic Textbooks](https://faculty.atu.edu/mfinan/nnotes.html)
 * [Wikibooks: Mahematics online bookshelf](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Probability and statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Articles about Statistics](https://www.scribbr.com/category/statistics/)
 
-## Courses and Learning Sites
+## Data Scievce Courses and Learning Sites
 * [Jovian AI - Learn Data Science](https://jovian.ai/learn)
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
@@ -27,6 +28,8 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [W3Schools - Data Science Tutorial](https://www.w3schools.com/datascience/default.asp)
 * [TutorialsPoint - Python Data Science Tutorial](https://www.tutorialspoint.com/python_data_science/index.htm)
 * [TensorFlow Tutorials and Guides](https://www.tensorflow.org/overview)
+* [Machine Learning Tutorial Python | Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+* [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 * [Korbit AI - Data Science Learning using AI tutor](https://www.korbit.ai/for-individuals)
 * [CoderzColumn | Python, Data Science, Ml ,AI Tutorials](https://coderzcolumn.com/)
 * [Learn Data Science Online | DPhi](https://dphi.tech/learn/)
@@ -37,6 +40,10 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 * [MIT Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 * [Machine Learning by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
+
+## Database Courses
+* [khanacademy SQL course](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Introduction to MongoDB](https://www.coursera.org/learn/introduction-mongodb)
 
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
