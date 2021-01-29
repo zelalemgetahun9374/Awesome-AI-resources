@@ -23,6 +23,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [Dive Into Deep Learning: D2L by Amazon scientists](https://d2l.ai/index.html)
 * [Machine Learning Course - The Clever Programmer](https://thecleverprogrammer.com/2020/09/24/machine-learning-course/)
+* [21-Days-Of-Machine-Learning](https://github.com/ArunSolomon/21-Days-Of-Machine-Learning)
 * [Fast.ai - Practical Deep Learning For Coders](https://course18.fast.ai/)
 * [Kaggle courses](https://www.kaggle.com/learn/overview)
 * [W3Schools - Data Science Tutorial](https://www.w3schools.com/datascience/default.asp)
@@ -44,6 +45,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 ## Database Courses
 * [khanacademy SQL course](https://www.khanacademy.org/computing/computer-programming/sql)
 * [Introduction to MongoDB](https://www.coursera.org/learn/introduction-mongodb)
+* [SQLBolt - Learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 
 ## Jupiter Notebooks
 * [Kaggle Notebooks](https://www.kaggle.com/notebooks)
