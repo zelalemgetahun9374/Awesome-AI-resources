@@ -104,6 +104,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Free AI resources](https://github.com/mrsaeeddev/free-ai-resources)
 * [The incredible PyTorch - Pytorch tutorials, projects, libraries, videos, papers, books](https://github.com/ritchieng/the-incredible-pytorch)
 * [Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
+* [Build-your-own-x](https://github.com/danistefanovic/build-your-own-x#build-your-own-programming-language)
 
 ## Articles and Blogs
 * [Bird's Eye View of The Machine Learning Workflow - Elite Data Science](https://elitedatascience.com/birds-eye-view)
