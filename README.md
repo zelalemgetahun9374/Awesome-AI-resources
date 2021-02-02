@@ -23,6 +23,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [deeplearning.ai](https://www.deeplearning.ai/)
 * [Dive Into Deep Learning: D2L by Amazon scientists](https://d2l.ai/index.html)
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+* [Intel AI courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html)
 * [Machine Learning Course - The Clever Programmer](https://thecleverprogrammer.com/2020/09/24/machine-learning-course/)
 * [21-Days-Of-Machine-Learning](https://github.com/ArunSolomon/21-Days-Of-Machine-Learning)
 * [Fast.ai - Practical Deep Learning For Coders](https://course18.fast.ai/)
