@@ -111,7 +111,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
 * [The Artificial Intelligence Wiki](https://wiki.pathmind.com/)
 * [DATA SCIENCE PIPELINE BASICS](https://medium.com/@shubhammadke96/data-science-pipeline-basics-da4eff6bdd47)
-* [CNN Explainer Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
+* [CNN Explainer - Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
 * [A step-by-step guide for creating an authentic data science portfolio project](https://www.kdnuggets.com/2020/10/guide-authentic-data-science-portfolio-project.html)
 * [Beginners Learning Path for Machine Learning](https://www.kdnuggets.com/2020/05/beginners-learning-path-machine-learning.html)
 * [10 Free Data Visualization Tools](https://www.pcmag.com/news/10-free-data-visualization-tools)
