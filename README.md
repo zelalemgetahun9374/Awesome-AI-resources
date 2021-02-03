@@ -85,6 +85,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Miscellaneous
 * [Open Data Science](https://ods.ai/)
+* [freeCodeCamp](https://www.freecodecamp.org/)
 * [Google AI](https://ai.google/)
 * [fast.ai](https://www.fast.ai/)
 * [Workera - Personalized Data-AI Skills Transformation](https://workera.ai/)
