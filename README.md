@@ -82,6 +82,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Practicum Digital Virtual Internships](https://sites.google.com/view/practicum-digital/welcome)
 * [Google Internships+](https://buildyourfuture.withgoogle.com/internships/)
 * [Work At A Startup Internships](https://www.workatastartup.com/internships)
+* [Indeed](https://www.indeed.com/)
 
 ## Miscellaneous
 * [Open Data Science](https://ods.ai/)
