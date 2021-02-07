@@ -147,6 +147,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Data Professor](https://www.youtube.com/c/DataProfessor/playlists)
 * [Krish Naik](https://www.youtube.com/user/krishnaik06/playlists)
 * [Ken Jee](https://www.youtube.com/c/KenJee1/playlists)
+* [Python Engineer - Python and Machine Learning Tutorials](https://www.youtube.com/c/PythonEngineer/playlists)
 * [statslectures](https://www.youtube.com/user/statslectures/playlists)
 * [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists) 
 * [codebasics - Data analysis and machine learning projects (End to End)](https://www.youtube.com/c/codebasics/playlists)
