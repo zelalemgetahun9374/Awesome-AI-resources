@@ -117,6 +117,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction)
 * [The Artificial Intelligence Wiki](https://wiki.pathmind.com/)
 * [DATA SCIENCE PIPELINE BASICS](https://medium.com/@shubhammadke96/data-science-pipeline-basics-da4eff6bdd47)
+* [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [CNN Explainer - Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
 * [GAN Lab - Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
 * [A step-by-step guide for creating an authentic data science portfolio project](https://www.kdnuggets.com/2020/10/guide-authentic-data-science-portfolio-project.html)
