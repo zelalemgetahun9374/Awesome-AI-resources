@@ -77,6 +77,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ## Internship, Fellowship and Jobs
+* [Entry Level AI](https://www.entrylevel.ai/)
 * [Internshala](https://internshala.com/)
 * [Fellowship.ai](https://www.fellowship.ai/)
 * [Forage Virtual Internships](https://www.theforage.com)
