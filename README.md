@@ -16,7 +16,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Probability and statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Articles about Statistics](https://www.scribbr.com/category/statistics/)
 
-## Data Scievce Courses and Learning Sites
+## AI Courses and Learning Sites
 * [Jovian AI - Learn Data Science](https://jovian.ai/learn)
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
@@ -42,6 +42,10 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 * [MIT Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 * [Machine Learning by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
+
+## Data Analysis and visualization courses
+
+* [Python Bootcamp 2021 Build 15 working Applications and Games - contains numpy, pandas, matplotlib, seaborn, plotly, cufflinks and folium](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/)
 
 ## Database Courses
 * [khanacademy SQL course](https://www.khanacademy.org/computing/computer-programming/sql)
