@@ -36,7 +36,6 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Korbit AI - Data Science Learning using AI tutor](https://www.korbit.ai/for-individuals)
 * [CoderzColumn | Python, Data Science, Ml ,AI Tutorials](https://coderzcolumn.com/)
 * [Learn Data Science Online | DPhi](https://dphi.tech/learn/)
-* [Machine Learning (SoloLearn)](https://www.sololearn.com/learning/1094)
 * [Cognitiveclass.ai](https://cognitiveclass.ai/)
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
@@ -45,6 +44,8 @@ Different kinds of resources for learning and practicing artificial intelligence
 
 ## Data Analysis and visualization courses
 
+* [Kaggle notebooks - search for and library, tool or topic](https://www.kaggle.com/code)
+* [CoderzColumn | Data Science Tutorials](https://coderzcolumn.com/tutorials/data-science/)
 * [Python Bootcamp 2021 Build 15 working Applications and Games - contains numpy, pandas, matplotlib, seaborn, plotly, cufflinks and folium](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/)
 
 ## Database Courses
