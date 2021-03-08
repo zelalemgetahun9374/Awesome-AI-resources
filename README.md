@@ -47,6 +47,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Kaggle notebooks - search for and library, tool or topic](https://www.kaggle.com/code)
 * [D3 js - Data Driven Documents](https://d3js.org/)
 * [CoderzColumn | Data Science Tutorials](https://coderzcolumn.com/tutorials/data-science/)
+* [Awesome machine learning - github repository for resources link](https://github.com/josephmisiti/awesome-machine-learning)
 * [Python Bootcamp 2021 Build 15 working Applications and Games - contains numpy, pandas, matplotlib, seaborn, plotly, cufflinks and folium](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/)
 
 ## Database Courses
