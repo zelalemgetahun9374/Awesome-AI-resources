@@ -103,7 +103,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [The Ultimate guide to AI, Data Science & Machine Learning, Articles, Cheatsheets and Tutorials ALL in one place](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/)
 * [Data Science and Machine Learning Cheat Sheets and Projects 2021](https://www.theinsaneapp.com/)
 * [Cheatography - Over 4,000 Free Cheat Sheets, Revision Aids and Quick References!](https://cheatography.com/)
-* [Machine Learning Cheat Sheets - Stanford)[https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning]
+* [Machine Learning Cheat Sheets - Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 * [Polo Club of Data Science - scalable, interactive, and interpretable tools that amplify human's ability to understand and interact with billion-scale data and machine learning models](https://poloclub.github.io/)
 * [65+ Free Data Science Resources for Beginners](https://elitedatascience.com/data-science-resources#foundational-skills)
 * [Library of computer science, maths, statistics, probability, artificial intelligence, ...](https://onedrive.live.com/?authkey=%21AC8oQ_EKSvCcCD4&id=82A2F2C10CA0D8F8%2130002&cid=82A2F2C10CA0D8F8)
