@@ -17,6 +17,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Articles about Statistics](https://www.scribbr.com/category/statistics/)
 
 ## AI Courses and Learning Sites
+* [10 Academy's Self Learning Resources](https://github.com/10-Academy-Self-Learning-Resources)
 * [Jovian AI - Learn Data Science](https://jovian.ai/learn)
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
@@ -94,6 +95,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Indeed](https://www.indeed.com/)
 
 ## Miscellaneous
+* [10 Academy](https://github.com/10-Academy-Self-Learning-Resources)
 * [Open Data Science](https://ods.ai/)
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [Google AI](https://ai.google/)
@@ -113,6 +115,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Ace your data science interview](https://datascienceprep.com/?utm_source=share&utm_medium=link&utm_campaign=friend_referral)
 
 ## Github Repositories
+* [10 Academy's Self Learning Resources](https://github.com/10-Academy-Self-Learning-Resources)
 * [Learn Datascience for Free](https://github.com/therealsreehari/Learn-Datascience-for-Free)
 * [Getting Started with Machine Learning](https://gettingstarted.ml/)
 * [Free AI resources](https://github.com/mrsaeeddev/free-ai-resources)
@@ -151,6 +154,7 @@ Different kinds of resources for learning and practicing artificial intelligence
 * [Kaggle Community](https://www.kaggle.com/discussion)
 
 ## Youtube Channels
+* [10Academy](https://www.youtube.com/channel/UCDwr854iwfpjDk1ESK5ofvQ/videos)
 * [My CS](https://www.youtube.com/c/MyCS1/videos)
 * [3Blue1Brown - Math, Probability, Neural networks explained easily](https://www.youtube.com/c/3blue1brown/playlists)
 * [Data Professor](https://www.youtube.com/c/DataProfessor/playlists)
